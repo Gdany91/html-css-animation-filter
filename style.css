@@ -44,9 +44,13 @@
 }
 .ex-10-icon {
     font-size: 60px;
+    animation: rotate 2s ;
+    animation-iteration-count: infinite;
 }
 .ex-11-icon {
     font-size: 60px;
+    animation: rotate-2 2s ;
+    animation-iteration-count: infinite;
 }
 .ex-12-button, .ex-13-button {
     position: relative;
