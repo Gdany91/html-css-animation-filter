@@ -31,3 +31,24 @@
 .ex-6-img:hover{
     filter:saturate(0.1) ;
 }
+
+.ex-7-img:hover{
+    filter: saturate(0.1) blur(2px);
+    
+}
+
+.ex-8-img:hover{
+    filter: saturate(0.1) blur(2px);
+    border-radius: 10% ;
+    
+}
+
+.ex-9-img:hover{
+    filter: saturate(0.1) blur(2px);
+    border-radius: 10% ;
+    width: 500px;
+    margin: 40px 80px;
+    
+
+}
+
