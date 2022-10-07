@@ -11,6 +11,23 @@
 }
 
 .ex-4-square:hover{
-    width: 0px;
+    opacity: 0;
     
+}
+
+.ex-5-square:hover{
+    width: 100px;
+    height: 100px;
+    margin: 5px;
+}
+
+.ex-5-square:active{
+    width: 20px;
+    height: 20px;
+    margin: 25px;
+
+}
+
+.ex-6-img:hover{
+    filter:saturate(0.1) ;
 }
